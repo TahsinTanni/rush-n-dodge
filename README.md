@@ -12,7 +12,7 @@ The player can collect power-ups, such as coins and shields, to earn points and 
 The game features a scoring system, with points awarded for collecting power-ups and avoiding obstacles.
 
 3. Features:
-4. 
+   
 2D graphics with a road and obstacles
 Player-controlled car with movement and collision detection
 Power-ups, including coins and shields
