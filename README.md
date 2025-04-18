@@ -2,7 +2,8 @@
 
 1. Project Overview:
 
-This project is a 2D driving simulator game developed in Python using the Pygame library. The game features a player-controlled car that must navigate through a road filled with obstacles and collect power-ups to earn points.
+This project is a 2D driving simulator game developed in Python using the Pygame library. 
+The game features a player-controlled car that must navigate through a road filled with obstacles and collect power-ups to earn points.
 
 2. Gameplay:
 
