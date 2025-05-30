@@ -1,4 +1,4 @@
-# CSE423-project
+# rush_n_dodge
 
 1. Project Overview:
 
